@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";body{outline:none;padding:0px;margin:0px;font-size:1rem;margin-bottom:24px;overflow-x:hidden;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+button{margin-right:4px;}
+.kw_element{margin:0px;margin-top:4px;}
+a.how_to_use{color:black;}
+.kw_tools_title a{color:white;}
+.kw_tools_title a:hover{color:white;text-decoration:none;}
+.google_ads{border:1px solid #AAAAAA;background-color:#CCCCCC;}
+.google_ads_336_280{width:336px;height:280px;}
+.google_ads_320_100{width:320px;height:100px;}
+.google_ads_300_250{width:300px;height:250px;}
+.google_ads_728_90{width:728px;height:90px;}
+.kw_tools_title_bar_color{background-color:#3C8687;color:white;}
+.kw_tools_title{font-family:'Aclonica', cursive;font-size:27px;font-weight:bold;line-height:1;padding:8px 0px 6px 0px;}
+.kw_tools_subtitle{font-size:13px;position:relative;top:-6px;}
+.kw_tools_desktop_ads{width:340px;padding-left:4px;}
+.kw_tools_box{margin:0px;}
+.kw_tools_and_topad_div{padding:1px;}
+.no_paddings{padding:0px;}
+.no_margins{margin:0px;}
+.kw_tools_footer{margin-top:4px;font-family:Verdana;font-size:11px;border-top:1px solid #DDDDDD;position:fixed;bottom:0;left:0;height:24px;background-color:white;}
+.kw_tools_content{padding:0px;margin:0px;}
+.kw_tools_footer_content{padding:3px;}
+.kw_tools_content{}
+.kw_paragraph{text-indent:20px;text-align:justify;}
+.kw_description_sub{margin-left:20px;margin-bottom:20px;}
+.tool_title{color:#3C8687;line-height:1;font-weight:600;}
+.tool_description{font-size:14px;}
+.tool_title_subtitle{position:relative;top:-5px;}
+.kw_table{border:1px solid #dee2e6;}
+.kw_border_style_1{border:1px solid #dee2e6;}
+.kw_table_head{border:1px solid #212529;}
+.kw_forms{border:1px solid #dee2e6;padding:10px;}
+.kw_theme_font_color{color:#127b7c;}
+.ft_font{font-family:Verdana, arial;font-size:12px;}
+.black{color:black;}
+.unbold{font-weight:normal;}
+.bold{font-weight:bold;}
+.bg-white{background-color:white;}
+.txt_right{text-align:right;}
+@media (max-width:767.98px){body{font-size:15px;}
+.kw_formula{font-size:12px;}
+.kw_description_sub{margin-left:10px;margin-bottom:10px;}
+.kw_tools_title{font-size:24px;}
+.tool_title{font-size:1.60rem;}
+}
+@media (min-width:768px) and (max-width:991.98px){body{}
+}
+@media (min-width:992px){body{}
+}
