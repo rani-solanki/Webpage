@@ -4,7 +4,6 @@ import Navbar from './Component/Navbar';
 import Landing from './Component/landing';
 import { BrowserRouter as Router, Route,} from "react-router-dom";
 import "@fontsource/montserrat";
-import bootstrap from 'bootstrap';
 
 function App() {
   return (
