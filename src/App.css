@@ -466,6 +466,7 @@ h1 {
   top: 200px;
 }
 .payment{
+  /* paument vector */
   background: url("./Image/payment.jfif") no-repeat;
   position: absolute;
   width: 210px;
